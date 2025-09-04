@@ -119,3 +119,10 @@ For any questions or feedback, don’t hesitate to reach out:
 
 ---
 
+## 🌟 **More About the Models**:
+
+* **VGgish**: A deep learning model optimized for audio feature extraction. It works exceptionally well in environments like music or noise classification.
+* **YAMNet**: Built for detecting sounds in a broad array of categories, this model is ideal for large-scale audio classification applications.
+
+---
+
