@@ -73,3 +73,40 @@ Explore the notebooks to learn how to:
 
 ---
 
+## 🌐 **How to Use**:
+
+1. **Load the Model**:
+
+   * Example for VGgish:
+
+   ```python
+   from VGgish_Model import VGgish
+   model = VGgish.load_model()
+   ```
+
+   * Example for YAMNet:
+
+   ```python
+   from YAMNet_Model import YAMNet
+   model = YAMNet.load_model()
+   ```
+
+2. **Upload Audio**: You can upload your own audio files and start classifying. The notebooks have detailed code to help with this process.
+
+3. **Explore and Fine-Tune**: The models can be fine-tuned for specific audio datasets or used directly for classification tasks.
+
+---
+
+## 🛠 **Contributing**:
+
+We love collaboration! If you have suggestions or improvements, feel free to fork the repo and submit a pull request. Contributions could include:
+
+* Bug fixes
+* Adding more features
+* Updating the models
+* Improving the documentation
+
+If you find any issues or need assistance, please open an issue in this repository!
+
+---
+
