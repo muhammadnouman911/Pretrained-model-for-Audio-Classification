@@ -26,3 +26,50 @@ Unlock the power of audio classification with minimal effort!
 
 ---
 
+## 🌟 **Getting Started**:
+
+### 1️⃣ **Clone the Repository**
+
+Start by cloning this repo to your local machine. Open your terminal or command prompt and run:
+
+```bash
+git clone https://github.com/muhammadmadnouman911/Pretrained-model-for-Audio-Classification.git
+cd Pretrained-model-for-Audio-Classification
+```
+
+### 2️⃣ **Install Dependencies**
+
+Make sure you have all the necessary Python libraries installed by running:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ **Run the Notebooks**
+
+We’ve included easy-to-follow Jupyter notebooks that guide you step-by-step. Simply launch the notebook of your choice:
+
+```bash
+jupyter notebook Pretrained_Model(VGGish).ipynb
+```
+
+Explore the notebooks to learn how to:
+
+* **Load Pretrained Models**
+* **Classify Audio Files**
+* **Fine-Tune for Custom Audio Datasets**
+* **Visualize Model Results**
+
+---
+
+## 📚 **File Breakdown**:
+
+* **Pretrained\_Model(VGGish).jpg**: A detailed visualization of the VGGish model architecture.
+* **Pretrained\_Model(YAMNet).jpg**: A visual guide to the YAMNet architecture.
+* **Pretrained\_Model(VGGish).ipynb**: Step-by-step guide for using the VGGish model to classify audio data.
+* **Pretrained\_Model(YAMNet).ipynb**: Notebook dedicated to the YAMNet model for classifying a broad range of sounds.
+* **README.md**: The file you're reading—your guide to the repository!
+* **Untitled0.ipynb**: A test notebook for running basic experiments with both models.
+
+---
+
