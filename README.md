@@ -110,3 +110,12 @@ If you find any issues or need assistance, please open an issue in this reposito
 
 ---
 
+## 📧 **Contact**:
+
+For any questions or feedback, don’t hesitate to reach out:
+
+* **Email**: \[Insert Email Here]
+* **GitHub Issues**: Open a new issue if you face any trouble!
+
+---
+
